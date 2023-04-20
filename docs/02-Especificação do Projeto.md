@@ -11,7 +11,7 @@ As personas levantadas durante o processo de entendimento do problema são apres
 <h3><ins> José da Silva </ins></h3>
 
 Idade: 42 anos 
-Ocupação: Pedreiro  
+<p>Ocupação: Pedreiro</p> 
 Aplicativos: Instagram e Facebook 
 
 <h3>Motivações</h3> 
@@ -30,7 +30,7 @@ Tem dificuldade de encontrar clientes, e de mostrar os seus trabalhos anteriores
 <h3><ins>Maria da Silva </h3></ins>
 
 Idade: 28 
-Ocupação: Dona de Casa 
+<p>Ocupação: Dona de Casa</p> 
 Aplicativos: Instagram e Facebook 
 
 <h3>Motivações</h3> 
@@ -43,39 +43,25 @@ Maria já teve experiências negativas no passado, com pedreiros e pintores que 
 <p>Maria da Silva é uma dona de casa dedicada e organizada, que vive em um bairro tranquilo da cidade com sua família. </p>
 
 
+<img align="left" src="https://user-images.githubusercontent.com/104217381/233419884-188162ec-ac4c-4e25-a4d3-63c0edd75b81.png" width="300px" />
 
-Luiza Santos 
+<h3><ins>Luiza Santos </h3></ins>
 
 Idade: 29 anos 
+<p>Ocupação: Tatuadora. </p>
+Aplicativos: Instagram, Facebook e OLX.
 
- 
-
-Ocupação: Tatuadora  
-
-Aplicativos: 
-
-Instagram 
-
-Facebook 
-
-OLX 
-
-Motivações 
-
- 
-
+<h3>Motivações</h3> 
 Atrair novos clientes para seu estúdio através da internet. 
 
-Frustrações 
-
- 
-
+<h3>Frustrações </h3>
 Luiza percebeu que, para crescer ainda mais em sua carreira, é preciso ampliar sua base de clientes e atrair pessoas que ainda não a conhecem para seu estúdio de tatuagem. 
 
-Hobbies, História 
+<h3>Hobbies, História </h3>
+Luiza Santos é uma tatuadora talentosa e experiente, que trabalha há mais de 7 anos na área. Ela é conhecida por sua técnica apurada, seu cuidado com a higiene e seu  estilo único de criação. 
 
- Luiza Santos é uma tatuadora talentosa e experiente, que trabalha há mais de 7 anos na área. Ela é conhecida por sua técnica apurada, seu cuidado com a higiene e seu estilo único de criação. 
 
+----------
 Ana Paula 
 
 Idade: 26 anos 
