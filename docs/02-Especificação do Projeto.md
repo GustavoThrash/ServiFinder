@@ -4,19 +4,104 @@ A definição exata do problema e os pontos mais relevantes a serem tratados nes
 
 ## Personas
 
-Pedro Paulo tem 26 anos, é arquiteto recém-formado e autônomo. Pensa em se desenvolver profissionalmente através de um mestrado fora do país, pois adora viajar, é solteiro e sempre quis fazer um intercâmbio. Está buscando uma agência que o ajude a encontrar universidades na Europa que aceitem alunos estrangeiros.
+As personas levantadas durante o processo de entendimento do problema são apresentadas na Figuras que se seguem. 
 
-Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina e/ou nos seguintes links:
+<img align="left" src="https://user-images.githubusercontent.com/104217381/233236108-a923953f-0e85-485c-9013-3b88799ad5a8.png"  width="300px" />
 
-> **Links Úteis**:
-> - [Rock Content](https://rockcontent.com/blog/personas/)
-> - [Hotmart](https://blog.hotmart.com/pt-br/como-criar-persona-negocio/)
-> - [O que é persona?](https://resultadosdigitais.com.br/blog/persona-o-que-e/)
-> - [Persona x Público-alvo](https://flammo.com.br/blog/persona-e-publico-alvo-qual-a-diferenca/)
-> - [Mapa de Empatia](https://resultadosdigitais.com.br/blog/mapa-da-empatia/)
-> - [Mapa de Stalkeholders](https://www.racecomunicacao.com.br/blog/como-fazer-o-mapeamento-de-stakeholders/)
->
-Lembre-se que você deve ser enumerar e descrever precisamente e personalizada todos os clientes ideais que sua solução almeja.
+<h3><ins> José da Silva </ins></h3>
+
+Idade: 42 anos 
+Ocupação: Pedreiro  
+Aplicativos: Instagram e Facebook 
+
+<h3>Motivações</h3> 
+Quer alcançar novos clientes através da internet para aumentar a sua renda. 
+
+<h3>Frustrações </h3>
+Tem dificuldade de encontrar clientes, e de mostrar os seus trabalhos anteriores para os interessados nos seus serviços. 
+
+<h3>Hobbies, História </h3>
+<p>José da Silva é um pedreiro experiente, com mais de 10 anos de experiência na área da construção civil. Ele é conhecido por ser um profissional honesto, dedicado e sempre disposto a ajudar seus clientes a realizar seus sonhos de construção ou reforma. </p>
+
+<br>
+
+<img align="left" src="https://user-images.githubusercontent.com/104217381/233237329-c9e2e53e-6376-4f3b-a0cc-0bc22d111493.png" width="300px" />
+
+<h3><ins>Maria da Silva </h3></ins>
+
+Idade: 28 
+Ocupação: Dona de Casa 
+Aplicativos: Instagram e Facebook 
+
+<h3>Motivações</h3> 
+Busca de profissionais confiáveis e comprometidos em atender suas expectativas. 
+
+<h3>Frustrações </h3>
+Maria já teve experiências negativas no passado, com pedreiros e pintores que não entregaram o serviço conforme o combinado, causando prejuízos financeiros e emocionais. 
+
+<h3>Hobbies, História </h3>
+<p>Maria da Silva é uma dona de casa dedicada e organizada, que vive em um bairro tranquilo da cidade com sua família. </p>
+
+
+
+Luiza Santos 
+
+Idade: 29 anos 
+
+ 
+
+Ocupação: Tatuadora  
+
+Aplicativos: 
+
+Instagram 
+
+Facebook 
+
+OLX 
+
+Motivações 
+
+ 
+
+Atrair novos clientes para seu estúdio através da internet. 
+
+Frustrações 
+
+ 
+
+Luiza percebeu que, para crescer ainda mais em sua carreira, é preciso ampliar sua base de clientes e atrair pessoas que ainda não a conhecem para seu estúdio de tatuagem. 
+
+Hobbies, História 
+
+ Luiza Santos é uma tatuadora talentosa e experiente, que trabalha há mais de 7 anos na área. Ela é conhecida por sua técnica apurada, seu cuidado com a higiene e seu estilo único de criação. 
+
+Ana Paula 
+
+Idade: 26 anos 
+
+Ocupação: Cabeleireira  
+
+Aplicativos: 
+
+Instagram 
+
+Facebook 
+
+Twitter 
+
+Motivações 
+
+Ela está determinada a encontrar um profissional que seja experiente, talentoso e que possa realizar as suas tatuagens dos seus sonhos com perfeição. 
+
+Frustrações 
+
+Ana tem medo de escolher profissionais não qualificados o suficiente para realizar o desenho que ela tanto deseja. Ela sabe que a escolha do tatuador é uma decisão importante e que pode afetar a qualidade final do trabalho. 
+
+Hobbies, História 
+
+ Ana Paula é uma mulher jovem e apaixonada por arte. Ela sempre foi fascinada por tatuagens e admira muito a habilidade dos artistas que conseguem criar desenhos incríveis na pele das pessoas. 
+
 
 ## Histórias de Usuários
 
