@@ -42,7 +42,7 @@ Maria já teve experiências negativas no passado, com pedreiros e pintores que 
 <h3>Hobbies, História </h3>
 <p>Maria da Silva é uma dona de casa dedicada e organizada, que vive em um bairro tranquilo da cidade com sua família. </p>
 
-
+<br>
 <img align="left" src="https://user-images.githubusercontent.com/104217381/233419884-188162ec-ac4c-4e25-a4d3-63c0edd75b81.png" width="300px" />
 
 <h3><ins>Luiza Santos </h3></ins>
@@ -60,8 +60,9 @@ Luiza percebeu que, para crescer ainda mais em sua carreira, é preciso ampliar 
 <h3>Hobbies, História </h3>
 Luiza Santos é uma tatuadora talentosa e experiente, que trabalha há mais de 7 anos na área. Ela é conhecida por sua técnica apurada, seu cuidado com a higiene e seu  estilo único de criação. 
 
+<br>
 
-----------
+
 Ana Paula 
 
 Idade: 26 anos 
