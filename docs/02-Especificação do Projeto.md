@@ -24,6 +24,7 @@ Tem dificuldade de encontrar clientes, e de mostrar os seus trabalhos anteriores
 <p>José da Silva é um pedreiro experiente, com mais de 10 anos de experiência na área da construção civil. Ele é conhecido por ser um profissional honesto, dedicado e sempre disposto a ajudar seus clientes a realizar seus sonhos de construção ou reforma. </p>
 
 <br>
+<br>
 
 <img align="left" src="https://user-images.githubusercontent.com/104217381/233237329-c9e2e53e-6376-4f3b-a0cc-0bc22d111493.png" width="300px" />
 
@@ -61,7 +62,8 @@ Luiza percebeu que, para crescer ainda mais em sua carreira, é preciso ampliar 
 Luiza Santos é uma tatuadora talentosa e experiente, que trabalha há mais de 7 anos na área. Ela é conhecida por sua técnica apurada, seu cuidado com a higiene e seu  estilo único de criação. 
 
 <br>
-
+<br>
+<br>
 
 Ana Paula 
 
