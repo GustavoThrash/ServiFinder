@@ -85,43 +85,52 @@ Ana tem medo de escolher profissionais não qualificados o suficiente para reali
 
 ## Histórias de Usuários
 
-Com base na análise das personas forma identificadas as seguintes histórias de usuários:
+A partir da compreensão do dia a dia das personas identificadas para o projeto, foram registradas as seguintes histórias de usuários.
 
-|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
-|--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
-
-Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
-
-> **Links Úteis**:
-> - [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories)
-> - [Como escrever boas histórias de usuário (User Stories)](https://medium.com/vertice/como-escrever-boas-users-stories-hist%C3%B3rias-de-usu%C3%A1rios-b29c75043fac)
-> - [User Stories: requisitos que humanos entendem](https://www.luiztools.com.br/post/user-stories-descricao-de-requisitos-que-humanos-entendem/)
-> - [Histórias de Usuários: mais exemplos](https://www.reqview.com/doc/user-stories-example.html)
-> - [9 Common User Story Mistakes](https://airfocus.com/blog/user-story-mistakes/)
-
+|EU COMO... `PERSONA`| QUERO/DESEJO ... `O QUE`                |PARA ... `PORQUE`                 |
+|--------------------|---------------------------------------------------|----------------------------------------|
+|José da Silva       | Quero alcançar novos clientes através da internet.| Aumentar a minha renda.                |
+|Maria da Silva|Encontrar profissionais confiáveis e comprometidos | Realizar seus projetos de construção e pintura, e continuar transformando sua casa em um lar mais aconchegante e acolhedor para sua família. |
+|Luiza Santos        |Ampliar sua base de clientes e atrair pessoas que ainda não a conhecem para seu estúdio de tatuagem. |Crescer ainda mais em sua carreira e aumentar a sua renda.| Realizar as suas tatuagens com perfeição.|
+|José da Silva  |Poder mostrar os seus trabalhos anteriores através de um portfólio bem apresentado.| Transmitir confiança aos seus novos clientes.|
+|Ana Paula | Encontrar profissionais que sejam experientes, talentosos e que possam a impressionar com a sua arte.|Realizar as suas tatuagens com perfeição.|
+|José da Silva|Poder mostrar os seus trabalhos anteriores através de um portfólio bem apresentado.|Transmitir confiança aos seus novos clientes.|
+|Ana Paula|Acessar Portfólios de profissionais bem qualificados|Ter mais confiança no momento de contratar alguém.|
+<br>
+<br>
 ## Requisitos
-
-As tabelas que se seguem apresentam os requisitos funcionais e não funcionais que detalham o escopo do projeto.
+O escopo funcional do projeto é definido por meio dos requisitos funcionais que descrevem as possibilidades interação dos usuários, bem como os requisitos não funcionais que descrevem os aspectos que o sistema deverá apresentar de maneira geral. Estes requisitos são apresentados a seguir.
 
 ### Requisitos Funcionais
 
-|ID    | Descrição do Requisito  | Prioridade |
-|------|-----------------------------------------|----|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
-
+|  &ensp;   ID  &ensp;   | Descrição do Requisito  | Prioridade |
+|------------|-----------------------------------------|----|
+| RF-01 | Cadastro de usuários: permitir que os usuários/prestador de serviço criem uma conta, inserindo informações pessoais, de contato e de pagamento. | ALTA | 
+| RF-02 | Acesso do prestador de serviços: permitir que os prestadores de serviços criem e gerenciem seus próprios perfis, adicionem serviços, certificações e portfólios, especifiquem horários e localizações de disponibilidade, gerenciem agendamentos e interajam com clientes por meio do site/whatsapp. ALTA|
+| RF-03 | Pesquisa de serviços: permitir que os usuários pesquisem serviços com base em suas necessidades, como localização, tipo de serviço, preço e avaliações de outros usuários.| ALTA |
+|  RF-04  | Contratação de serviços: permitir que os usuários contratem serviços diretamente pelo site, incluindo o pagamento online e o agendamento de serviços.| ALTA |
+|  RF-05  | Comunicação direta entre usuários: permitir que os usuários se comuniquem diretamente por meio de um sistema de mensagens integrado ao site para discutir detalhes dos serviços contratados.| ALTA |
+|  RF-06  | O site deve permitir visualizar as informações de contatos do mantenedor do site.| BAXA |
+|  RF-07  | Integração de mídias sociais: permitir que os usuários compartilhem serviços e avaliações em suas redes sociais, aumentando a visibilidade do site e atraindo mais usuários.| BAIXA |
+|  RF-08  | Histórico de transações: permitir que os usuários visualizem um histórico de transações e de serviços contratados.| BAIXA |
+|  RF-09  | Suporte ao cliente: fornecer suporte ao cliente por meio de chat, telefone ou e-mail, para ajudar os usuários em caso de problemas ou dúvidas.| BAIXA |
+|  RF-10  | Comentários e classificações: permitir que os usuários deixem comentários e classifiquem os prestadores de serviços, para que outros usuários possam utilizar essas informações na seleção de um prestador.| BAIXA |
+|  RF-11  | Gerenciamento de agendamentos: permitir que os usuários gerenciem seus agendamentos de serviços, visualizando datas, horários e locais agendados, bem como possibilitando a edição e cancelamento.| BAIXA |
+<br>
+<br>
 
 ### Requisitos não Funcionais
+A tabela a seguir apresenta os requisitos não funcionais que o projeto deverá atender.
 
-|ID     | Descrição do Requisito  |Prioridade |
+|&ensp; ID  &ensp;    | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
-|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
-|RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
-
+|RNF-01| Segurança: garantir que o site seja seguro e protegido contra ameaças, como ataques de hackers, roubo de informações pessoais ou financeiras. | ALTA | 
+|RNF-02| Usabilidade: garantir que o site seja fácil de usar e acessível, com uma interface clara e intuitiva e uma boa experiência do usuário.|  ALTA | 
+|RNF-03| Manutenção: garantir que o site possa ser facilmente mantido e atualizado, com um sistema eficiente de gerenciamento de conteúdo e uma boa documentação para desenvolvedores.|  MÉDIA | 
+|RNF-04| O site deve ser compatível com os principais navegadores do mercado (Google Chrome, Firefox, Microsoft Edge)|  ALTA |
+<br>
 Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
-
+<br>
 - [Requisitos Funcionais
  (RF)](https://pt.wikipedia.org/wiki/Requisito_funcional):
  correspondem a uma funcionalidade que deve estar presente na
@@ -137,13 +146,14 @@ todos os aspectos capturados nas Histórias de Usuário foram cobertos.
 
 ## Restrições
 
-O projeto está restrito pelos itens apresentados na tabela a seguir.
+As questões que limitam a execução desse projeto e que se configuram como obrigações claras para o desenvolvimento do projeto em questão são apresentadas na tabela a seguir.
 
-|ID| Restrição                                             |
-|--|-------------------------------------------------------|
-|01| O projeto deverá ser entregue até o final do semestre |
-|02| Não pode ser desenvolvido um módulo de backend        |
 
+|&ensp; ID &ensp;  | Restrição                                             |
+|-------|-------------------------------------------------------|
+|RE-01| Tecnologia: restrições tecnológicas, como a escolha de plataformas ou frameworks específicos, podem afetar o desenvolvimento e a manutenção do site. |
+|RE-02| Integrações: limitações impostas por outros sistemas com os quais o site deve se integrar, como serviços de pagamento online ou APIs externas.|
+|RE-03| Prazo: um prazo apertado pode limitar o tempo disponível para o desenvolvimento e teste do site.|
 
 Enumere as restrições à sua solução. Lembre-se de que as restrições geralmente limitam a solução candidata.
 
