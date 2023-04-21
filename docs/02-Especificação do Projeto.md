@@ -65,31 +65,22 @@ Luiza Santos é uma tatuadora talentosa e experiente, que trabalha há mais de 7
 <br>
 <br>
 
-Ana Paula 
+<img align="left" src="https://user-images.githubusercontent.com/104217381/233709412-e256888e-af9f-4e93-9244-d063fe893a84.png" width="300px" />
+<h3><ins>Ana Paula </h3></ins>
+Idade: 26 anos.<br>
+Ocupação: Cabeleireira.<br>
+Aplicativos:Instagram, Twitter e Facebook
 
-Idade: 26 anos 
-
-Ocupação: Cabeleireira  
-
-Aplicativos: 
-
-Instagram 
-
-Facebook 
-
-Twitter 
-
-Motivações 
-
+<h3>Motivações</h3> 
 Ela está determinada a encontrar um profissional que seja experiente, talentoso e que possa realizar as suas tatuagens dos seus sonhos com perfeição. 
 
-Frustrações 
-
+<h3>Frustrações </h3>
 Ana tem medo de escolher profissionais não qualificados o suficiente para realizar o desenho que ela tanto deseja. Ela sabe que a escolha do tatuador é uma decisão importante e que pode afetar a qualidade final do trabalho. 
-
-Hobbies, História 
+<h3>Hobbies, História </h3>
 
  Ana Paula é uma mulher jovem e apaixonada por arte. Ela sempre foi fascinada por tatuagens e admira muito a habilidade dos artistas que conseguem criar desenhos incríveis na pele das pessoas. 
+ <br>
+ <br>
 
 
 ## Histórias de Usuários
