@@ -14,10 +14,12 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo de
 * Gustavo Heleno Almeida Rodrigues
 * Lucas Antonio Miranda da Silva
 * Matheus Marques Aguiar
+* Douglas da Silva Ferreira
+* Gleisson Martins Soares
 
 ## Orientador
 
-* Nome completo do professor 1
+* Clóvis Lemos Tavares
 
 ## Instruções de utilização
 
