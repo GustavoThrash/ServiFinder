@@ -98,8 +98,10 @@ A partir da compreensão do dia a dia das personas identificadas para o projeto,
 |Ana Paula|Acessar Portfólios de profissionais bem qualificados|Ter mais confiança no momento de contratar alguém.|
 <br>
 <br>
+
 ## Requisitos
 O escopo funcional do projeto é definido por meio dos requisitos funcionais que descrevem as possibilidades interação dos usuários, bem como os requisitos não funcionais que descrevem os aspectos que o sistema deverá apresentar de maneira geral. Estes requisitos são apresentados a seguir.
+<br>
 
 ### Requisitos Funcionais
 
