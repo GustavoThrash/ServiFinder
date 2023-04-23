@@ -105,7 +105,7 @@ O escopo funcional do projeto é definido por meio dos requisitos funcionais que
 
 ### Requisitos Funcionais
 
-|| ID  | Descrição do Requisito  | Prioridade |
+| ID  | Descrição do Requisito  | Prioridade |
 |:------------:|:---------------------------------------|----|
 | RF-01 | Cadastro de usuários: permitir que os usuários/prestador de serviço criem uma conta, inserindo informações pessoais, e de contato. | ALTA | 
 | RF-02 | Acesso do prestador de serviços: permitir que os prestadores de serviços criem e gerenciem seus próprios perfis, adicionem serviços, certificações e portfólios, especifiquem horários e localizações de disponibilidade, gerenciem agendamentos e interajam com clientes por meio do site/whatsapp. | ALTA |
@@ -114,6 +114,7 @@ O escopo funcional do projeto é definido por meio dos requisitos funcionais que
 |  RF-05  | O site deve permitir visualizar as informações de contatos do mantenedor do site.| BAXA |
 |  RF-06  | Integração de mídias sociais: permitir que os usuários compartilhem serviços e avaliações em suas redes sociais, aumentando a visibilidade do site e atraindo mais usuários.| BAIXA |
 |  RF-07  | Comentários e classificações: permitir que os usuários deixem comentários e classifiquem os prestadores de serviços, para que outros usuários possam utilizar essas informações na seleção de um prestador.| BAIXA |
+
 
 <br>
 <br>
