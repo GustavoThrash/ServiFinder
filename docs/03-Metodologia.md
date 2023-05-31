@@ -25,10 +25,10 @@ A equipe está organizada da seguinte maneira:
 - <b>Product Owner:</b> Lucas Antonio Miranda da Silva
 - <b>Equipe de Desenvolvimento</b> <br>
  1 - Matheus Marques Aguiar <br>
- 2 -  Douglas da Silva Ferreira
+ 2 - Gustavo Heleno Almeida Rodrigues
 - <b>Equipe de Design </b><br>
- 1 - Gleisson Martins Soares
-
+ 1 - Matheus Marques Aguiar
+ 2 - Lucas Antonio Miranda da Silva
 
 ### Ferramentas
 
