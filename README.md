@@ -1,13 +1,13 @@
 # ServiFinder
 ![fotor_2023-4-19_12_45_26](https://user-images.githubusercontent.com/129555319/233231759-174fa10a-5f07-4e46-ab1e-af94fd1c0291.png)
 
-`CURSO`
+`Análise e Desenvolvimento de Sistemas`
 
-`DISCIPLINA`
+`Projeto: Desenvolvimento de Aplicação Web Front-End`
 
-`SEMESTRE`
+`Primeiro Semestre - 2023/01`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+O projeto consiste no desenvolvimento de uma plataforma online para contratação de serviços. A plataforma terá como objetivo conectar prestadores de serviços qualificados com clientes que buscam por esses serviços em diversas categorias. A ideia é oferecer uma solução prática e eficiente para a contratação de profissionais, proporcionando confiança e segurança aos clientes. A plataforma será intuitiva e amigável, visando facilitar o uso tanto para os clientes quanto para os prestadores de serviços. Além disso, será implementado um sistema de avaliação dos profissionais, permitindo que os clientes avaliem a qualidade do trabalho prestado. A plataforma busca atender às necessidades de um público cada vez mais conectado e exigente, oferecendo uma alternativa conveniente para a contratação de serviços.
 
 ## Integrantes
 
