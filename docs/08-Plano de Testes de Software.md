@@ -1,7 +1,6 @@
 # Plano de Testes de Software
 
 <span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Especificação do Projeto</a></span>, <a href="3-Projeto de Interface.md"> Projeto de Interface</a>
-<h1> Plano de Testes de Software </h1>
 Os requisitos para realização dos testes de software são:
 ⦁	Site publicado na Internet
 ⦁	Navegador da Internet - Chrome, Firefox ou Edge
