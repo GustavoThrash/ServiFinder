@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <link rel="Website Icon" type="png" href="./img/servfinder.png">
+    <title>Pesquisa de Serviços</title>
+    <link rel="stylesheet" href="./css/pesquisaservicos.css">
+</head>
+
+<body> 
+    <header>
+        <div id="logo"><img src="./img/servfinder.png" alt="Logo"></div>
+        <div><h2><i>ServiFinder</i></h2></div>
+        <div class="flex-container menu">
+          <ul class="list-item">
+            <li><a href="./index.html">HOME</a></li>  
+        </div>
+    </header>
+        
+    <div class="container">
+        <button onclick="buscarServicos()">Buscar</button>
+        <div class="card">
+            <h1>Contrate um serviço</h1>
+            <label for="busca">Busca:</label>
+            <input type="text" id="busca" name="busca" placeholder="Digite o nome do Serviço">
+            <ul class="lista-servicos"></ul>
+        </div>
+    </div>
+    
+        <script src="./js/pesquisaservicos.js"></script>
+</body>
+
+</html>

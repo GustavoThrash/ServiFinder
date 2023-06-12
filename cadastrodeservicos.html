@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>  
+    <link rel="Website Icon" type="png" href="./img/servfinder.png">  
+    <title> cadastro de serviços</title>
+    <link rel="stylesheet" href="./css/cadastro.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/sweetalert2@11.0.20/dist/sweetalert2.min.css">
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11.0.20/dist/sweetalert2.all.min.js"></script>
+</head>
+
+<body>
+    <header>
+        <div id="logo"><img src="./img/servfinder.png" alt="Logo"></div>
+        <div><h2><i>ServiFinder</i></h2></div>
+        <div class="flex-container menu">
+          <ul class="list-item">
+            <li><a href="./index.html">HOME</a></li>  
+        </div>   
+    </header>
+    <div class="pesquisa">
+        <h1> Cadastro De Serviços </h1>
+        <form class="form">
+            <label id="nomeLabel" for="nome"><i>Nome do serviço:</i></label>
+            <input type="text" name="name" id="nome" required>
+
+            <label id="prestadorLabel" for="nome"><i>Nome do prestador:</i> </label>
+            <input type="text" name="name" id="prestador" required>
+            
+            <label id="descricaoLabel" for="descricao"><i> Descrição do Serviço </i></label>
+            <textarea id="descricao" name="descrição" required></textarea>
+
+            <label id="cidadeLabel" for="cidade"><i> Cidade </i></label>
+            <input type="text" id="cidade" name="Cidade" required>
+
+            <label id="telefoneLabel" for="telefone"><i> Telefone/Whatsapp </i></label>
+            <input type="tel" id="telefone" name="numero"  required>
+
+            <button onclick="cadastrar()">Cadastrar</button>
+            
+        </form>
+    </div>
+ 
+    <script src="./js/cadastrodeservicos.js" ></script>
+</body>
+</html>
