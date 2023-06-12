@@ -7,6 +7,7 @@ Relatório com as evidências dos testes de software realizados no sistema pela 
 
 <h4>CT-01 - Cadastrar no ServiFinder:</h4>
 <p> Verificar se o cadastramento do prestador de serviços está funcionando corretamente.</p>
+
 ![alt text](/docs/img/R1.bmp)
 
 ![alt text](/docs/img/R2.bmp)
@@ -33,6 +34,7 @@ Relatório com as evidências dos testes de software realizados no sistema pela 
 
 <h4>CT-04 Pesquisar Serviços</h4>
 <p>Verificar se o usuário que deseja contratar um serviço consegue pesquisar o serviço de interesse.</p>
+
 ![alt text](/docs/img/R10.bmp)
 
 <h4>CT-05 - Gerenciamento de Serviços Cadastrados</h4>
