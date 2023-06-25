@@ -1,0 +1,132 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+body {
+  background-color: rgb(255, 0, 0);
+}
+
+.pesquisa {
+  background-color: #02030180;
+  margin-top: 15px;
+  padding: 10px;
+}
+
+header {
+  background-color: white;
+}
+
+.pesquisa {
+  background-color: #a39f9f;
+  margin-top: 15px;
+  padding: 10px;
+}
+
+div img {
+  display: block;
+  width: 100%;
+}
+
+header img {
+  width: 70px;
+}
+
+.form {
+  border-radius: 10px;
+  padding: 30px;
+  border-bottom: 20px;
+}
+
+.flex-container {
+  display: flex;
+  margin: auto;
+  max-width: 1024px;
+  width: 100%;
+  min-width: 320px;
+}
+
+ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+ul li a {
+  margin: 10px;
+  text-decoration: none;
+  color: black;
+  margin: 2px;
+}
+
+header {
+  display: flex;
+  background-color: #ffffff;
+  align-items: center;
+  height: 80px;
+  color: rgb(22, 8, 8);
+}
+
+header .list-item {
+  align-items: center;
+  display: flex;
+  justify-content: last center;
+  width: 100%;
+  max-width: 400px;
+  justify-content: space-between;
+}
+
+#logo {
+  padding: 10px;
+}
+
+label {
+  display: block;
+  margin-bottom: 10px;
+}
+
+h1 {
+  margin-left: 27px;
+}
+
+input,
+textarea {
+  display: block;
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 20px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+.center-button {
+  display: flex;
+  justify-content: center;
+}
+
+button {
+  background-color: #f9ca28;
+  color: white;
+  padding: 15px 30px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 18px;
+  font-weight: bold;
+  transition: background-color 0.3s ease;
+}
+
+button:hover {
+  background-color: #ffc107;
+}
+
+.notification {
+  background-color: #4caf50;
+  color: white;
+  padding: 10px;
+  border-radius: 4px;
+  text-align: center;
+  margin-top: 10px;
+}

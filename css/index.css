@@ -1,0 +1,347 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+/* Alinha a imagem do container à direita */
+.image-container {
+  float: right;
+}
+
+/* Define as imagens dentro de um elemento <div> como blocos de nível de bloco */
+div img {
+  display: block;
+  width: 100%;
+}
+
+/* Define a largura das imagens dentro do cabeçalho como 70 pixels */
+header img {
+  width: 70px;
+
+}
+
+h2{
+  margin-top: -20px;
+}
+
+/* Cria um contêiner flexível com largura máxima de 1064 pixels e largura mínima de 320 pixels */
+.flex-container {
+  display: flex;
+  margin: auto;
+  max-width: 1064px;
+  width: 100%;
+  min-width: 320px;
+}
+
+/* Remove a estilização padrão das listas não ordenadas */
+ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+/* Estiliza os links dentro dos itens de lista */
+ul li a {
+  margin: 10px;
+  text-decoration: none;
+  color: black;
+
+}
+
+/* Define o cabeçalho como um contêiner flexível com fundo branco, altura de 80 pixels e cor de texto */
+header {
+  display: flex;
+  align-items: center;
+  height:58px;
+  color: rgb(22, 8, 8);
+}
+
+/* Alinha os itens de lista do cabeçalho ao centro */
+header .list-item {
+  align-items: center;
+  display: flex;
+  justify-content: last center;
+  width: 100%;
+  max-width: 400px;
+  justify-content: space-between;
+}
+
+/* Adiciona espaçamento interno de 10 pixels ao redor do logotipo */
+#logo {
+  padding: 10px;
+  margin-top:-20px;
+}
+
+/* Estiliza o elemento de entrada com um fundo vermelho, largura de 220 pixels e alinhamento centralizado */
+.entrada {
+  display: flex;
+  width: 220px;
+  text-decoration: none;
+  border-radius: 30px;
+  background-color: #ff0202;
+  line-height: 30px;
+  color: rgb(0, 0, 0);
+  justify-content: center;
+  text-align: center;
+}
+
+/* Define o espaçamento à direita dos itens de lista dentro do elemento de entrada */
+.entrada li {
+  justify-content: space-around;
+  padding-right: 90px;
+}
+
+/* Alinha os itens de menu do cabeçalho e define o fundo branco e a cor do texto */
+header .menu {
+  justify-content: space-between;
+  align-items: center;
+  color: black;
+  width: 1024px;
+  margin-top:12px;
+  margin-left: 180px;
+}
+/* Define o fundo vermelho escuro e a altura de 820 pixels para o elemento de classe .apr2 */
+.apr2 {
+  background-color: #ff0202;
+  height: 820px;
+}
+
+/* Aumenta a largura da imagem dentro de .apr2 em 12%, movendo-a para baixo */
+.apr2 img {
+  width: 112%; /* Aumenta a largura da imagem */
+  margin-top: 115px; /* Move a imagem mais para baixo */
+  margin-left: 50px; /* Ajuste a margem esquerda */
+  margin-right: 50px; /* Ajuste a margem direita */
+  border-radius: 0%; /* Adicione borda arredondada, se desejado */
+}
+
+/* Alinha os elementos internos do contêiner .apr verticalmente e distribui o espaço entre eles */
+.apr {
+  align-items: center;
+  height: 70vh;
+  justify-content: space-between;
+  margin-bottom: 20px;
+}
+
+/* Define a altura mínima de .apr1 como 150 pixels */
+.apr .apr1 {
+  min-height: 150px;
+  width: 100%;
+  margin: 10px;
+}
+
+/* Estiliza os parágrafos dentro de .apr1 com tamanho de fonte de 14 pixels */
+.apr1 p {
+  font-size: 14px;
+}
+
+/* Estiliza os links dentro de .apr1 com fundo verde, borda arredondada e tamanho de fonte de 14 pixels */
+.apr1 a {
+  text-align: center;
+  text-decoration: none;
+  background-color: #209e3c;
+  border-radius: 50px;
+  padding: 5px;
+  color: antiquewhite;
+  width: 270px;
+  height: 50px;
+  display: block;
+  line-height: 50px;
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+
+/* Define a margem esquerda e o preenchimento superior para .apr1 */
+.apr1 {
+  padding-left: 20px;
+  padding-top: 40px;
+}
+
+/* Inverte a direção dos itens e distribui o espaço entre eles dentro de #who */
+#who {
+  flex-direction: row-reverse;
+  align-items: center;
+  justify-content: space-between;
+  padding-bottom: 50px;
+}
+
+/* Define a margem para .who1 */
+.who1 {
+  margin: 70px;
+}
+
+/* Define o fundo azul-escuro para .extern */
+.extern {
+  background-color: #2d526b;
+  width: 100%;
+}
+
+/* Define a exibição flexível para .serv com alinhamento entre os itens */
+.serv {
+  display: flex;
+  align-content: space-between;
+}
+
+/* Define a largura e altura das imagens dentro de #servs */
+#servs img {
+  width: 280px;
+  height: 280px;
+  margin: auto;
+}
+
+/* Altera a direção dos itens e adiciona estilos aos links e parágrafos dentro de .list-item2 */
+.list-item2 a {
+  width: 420px;
+  text-decoration: none;
+  border-radius: 50px;
+  background-color: bisque;
+  line-height: 70px;
+  padding: 5px 10px;
+  color: red;
+}
+
+.list-item2 p {
+  padding-top: 15px;
+  font-size: 20px;
+}
+
+/* Adiciona margem aos itens dentro de .list-item2 */
+.list-item2 {
+  margin: 20px;
+  text-align: center;
+}
+
+/* Centraliza o cabeçalho h1 dentro de #servs e adiciona espaçamento abaixo */
+#servs h1 {
+  text-align: center;
+  padding-bottom: 30px;
+}
+
+/* Alinha a imagem do container à direita */
+.image-container {
+  float: right;
+}
+
+/* Define as imagens dentro de um elemento <div> como blocos de nível de bloco */
+div img {
+  display: block;
+  width: 100%;
+}
+
+/* Define a largura das imagens dentro do cabeçalho como 70 pixels */
+header img {
+  width: 70px;
+}
+
+.botao-cadastro {
+  background-color: #ff0202;
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 30px;
+  font-size: 16px;
+ 
+}
+
+.botao-login {
+  background-color: red;
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 30px;
+  
+  font-size: 16px;
+}
+
+body {
+  text-align: center;
+  background: #ecf0f1;
+  padding-top: 20px;
+}
+
+.boton {
+  text-shadow: 0px 1px rgba(0, 0, 0, 0.2);
+  text-align: center;
+  text-decoration: none;
+  font-family: "Helvetica Neue", Helvetica, sans-serif;
+  display: inline-block;
+  color: #fff;
+  background: #7f8c8d;
+  padding: 7px 20px;
+  white-space: nowrap;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  border-radius: 100px;
+  margin: 10px 5px;
+  -webkit-transition: all 0.2s ease-in-out;
+  -ms-transition: all 0.2s ease-in-out;
+  -moz-transition: all 0.2s ease-in-out;
+  -o-transition: all 0.2s ease-in-out;
+  transition: all 0.2s ease-in-out;
+
+}
+
+.verde {
+  background: #e90404;
+  box-shadow: 0px 5px 0px 0px #9c0606;
+  margin-top:-12px;
+}
+
+.verde:hover {
+  background: #fa3232;
+}
+
+.verde:active {
+  box-shadow: 0px 2px 0px 0px #fd0404;
+}
+
+.rojo {
+  background: #e90404;
+  box-shadow: 0px 5px 0px 0px #9c0606;
+  margin-top:-12px;
+}
+
+.rojo:hover {
+  background: #fa3232;
+}
+
+.rojo:active {
+  box-shadow: 0px 2px 0px 0px #fd0404;
+}
+
+.apr1 img {
+  width: 54%; /* Altere a largura conforme necessário */
+  margin: -170px; /* Altere as margens conforme necessário */
+  margin-top: -135px; /* Ajuste o valor negativo para mover a imagem para baixo */
+  float: left; /* Altere o posicionamento conforme necessário */
+}
+
+
+h1,p{
+  line-height: 1.6;
+}
+
+h1 {
+  font-family: "Unispace", sans-serif;
+  font-size: 45px;
+  text-align: right;
+}
+
+p {
+  font-family: "Calibri";
+  text-align: right;
+}
+
+footer{
+  display: flex;
+  align-items: center;
+  color:white;
+  background-color:rgba(0, 0, 0, 0.808);
+  height: 80px;
+  padding-left: 20px;
+}
+.foot1 a{
+  color: #e2f107;
+  text-decoration: none;
+}
