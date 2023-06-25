@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <link rel="Website Icon" type="png" href="./img/servfinder.png" />
+    <title>Pesquisa de Serviços</title>
+    <link rel="stylesheet" href="./css/pesquisaservicos.css" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css"
+      integrity="sha512-5Y/2yuCYZ0F6fPsmKrfiSwadzB8djWp5BKc8PZsdvF/hEzzI9iG37DOmX5UvCV5TbK8bU1lmYx1dg7yv2HNyvQ=="
+      crossorigin="anonymous"
+      referrerpolicy="no-referrer"
+    />
+  </head>
+
+  <body>
+    <header>
+      <div id="logo"><img src="./img/servfinder.png" alt="Logo" /></div>
+      <div>
+        <h2><i>ServiFinder</i></h2>
+      </div>
+      <div class="flex-container menu">
+        <ul class="list-item">
+          <a href="./index.html" class="home-button">HOME</a>
+        </ul>
+      </div>
+    </header>
+
+    <div class="container">
+      <button class="buscar-button" onclick="buscarServicos()">Buscar</button>
+      <div class="card">
+        <h1>Contrate um Serviço</h1>
+        <label for="busca">Busca:</label>
+        <input
+          type="text"
+          id="busca"
+          name="busca"
+          placeholder="Digite o nome do Serviço"
+        />
+        <ul class="lista-servicos"></ul>
+      </div>
+    </div>
+
+    <script src="./js/pesquisaservicos.js"></script>
+  </body>
+</html>
